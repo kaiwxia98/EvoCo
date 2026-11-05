@@ -1,0 +1,6 @@
+torch==2.2.1
+torch-geometric==2.5.3
+numpy==1.26.4
+networkx==3.3
+tqdm==4.66.4
+biopython==1.84
